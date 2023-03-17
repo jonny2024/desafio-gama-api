@@ -7,3 +7,6 @@
 # trabalho em dupla
 - participante jonatas https://github.com/jonny2024
 - participante alex https://github.com/alexsalvatoree
+
+# anexando link com o arquivo do banco de dados mysql
+- https://drive.google.com/drive/u/0/folders/1yrEdQj0FEwTzDv7yZgGgAUOmw6vskd-y
