@@ -6,4 +6,4 @@
 
 # trabalho em dupla
 - participante jonatas https://github.com/jonny2024
--participante alex https://github.com/alexsalvatoree
+- participante alex https://github.com/alexsalvatoree
